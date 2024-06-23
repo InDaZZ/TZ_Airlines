@@ -1,0 +1,7 @@
+.tickets__filters-captions-input-label {
+    display: flex; 
+    gap: 10px;
+}
+.tickets__filters-captions-input-title {
+    margin: 0;
+}

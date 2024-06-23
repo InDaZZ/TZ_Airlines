@@ -1,0 +1,63 @@
+.ticketdirection {
+    margin: auto;
+}
+
+.ticketdirection-container {
+    padding: 0 20px;
+}
+
+.ticketdirection__title {
+    font-size: 22px;
+    margin: 15px 0 0 0;
+    padding: 0 0 15px 15px;
+    border-bottom: 1px solid #d7d8d9;
+}
+
+.ticketdirection__airport-abbreviation {
+    color: #28a2fa;
+}
+
+.ticketdirection__airport-abbreviation-ray {
+    padding: 0 5px;
+    color: #28a2fa;
+}
+
+.ticketdirection__flight-time {
+    margin-top: 10px;
+    font-size: 22px;
+    padding: 0 20px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ticketdirection__border {
+    position: relative;
+    width: 80%;
+    border-bottom: 1px solid #b6b9ba;
+    margin: auto;
+}
+
+.ticketdirection__boarding__date {
+    font-size: 20px;
+    color: #28a2fa;
+}
+.ticketdirection__transfer-info {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    background-color: transparent;
+    z-index: 10;
+    background-color: white;
+    padding: 0 10px;
+    color: #f79752;
+}
+
+.ticketdirection__transfer-info_hiden {
+    display: none;
+}
+
+.ticketdirection__carrier {
+    padding: 15px 0 15px 15px;
+    font-size: 18px;
+}

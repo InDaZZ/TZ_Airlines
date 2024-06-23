@@ -1,0 +1,77 @@
+.tickets {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 50px;
+    padding-top: 20px;
+}
+
+.tickets-container {
+    width: 100%;
+}
+
+.tickets__button-more {
+    display: block;
+    width: 30%;
+    height: 40px;
+    margin-top: 20px;
+    background-color: #97d2fc;
+    border-radius: 3px;
+    font-size: 18px;
+    border: 1px solid #ffcd4f;
+    margin: 20px auto;
+}
+
+.tickets__button-more_hiden {
+    display: none;
+}
+
+.tickets__button-more:hover {
+    cursor: pointer;
+}
+
+.tickets__filters-filter-price-input-label {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.tickets__filters-filter-price-input {
+    border: 2px solid #d7d8d9;
+    width: 100%;
+    border-radius: 4px;
+}
+
+.tickets__filters-filter-price-input:focus {
+    outline: #97d2fc;
+    border: 2px solid #97d2fc;
+}
+
+.tickets__filters-filter-price-button-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tickets__filters-buttto {
+    background-color: #97d2fc;
+    border: none;
+    border-radius: 10px;
+}
+
+.tickets__filters-buttto:hover {
+    cursor: pointer;
+}
+
+.tickets__error {
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    margin-top: 30%;
+}
+
+.tickets__filters-title {
+    margin: 10px 0 15px;
+}
+.tickets__filters-title:first-child{
+    margin-top: 0;
+}
