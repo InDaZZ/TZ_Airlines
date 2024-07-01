@@ -1,7 +1,3 @@
-/* const arrivalDate = "2020-08-20T04:30:00"; 2020-08-20T04:30:00
-let newsData = new Date(arrivalDate)
-console.log(newsData.getDay()) */
-"2020-08-20T04:30:00"
 const weekdays = [
   'Вск',
   'Пн',
@@ -28,8 +24,12 @@ const month = [
 ];
 
 function getFormattedDate(date) {
+  let minutes = new Date(date).getMinutes();
+  let hours = new Date(date).getHours();
+
+  console.log(new Date(date), new Date(date).getHours())
   const formattedDate = {
-    time: `${new Date(date).getHours()}.${new Date(date).getMinutes()}`,
+    time: `${(hours <=9) ? `0${hours}`: hours}.${(minutes <=9) ? `0${minutes}`: minutes}`,
     day: new Date(date).getDate(),
     month: month[new Date(date).getMonth()],
     weekdays: weekdays[new Date(date).getDay()]

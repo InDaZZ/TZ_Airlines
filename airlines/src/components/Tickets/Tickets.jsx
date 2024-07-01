@@ -6,7 +6,7 @@ import './Tickets.css';
 import useSortByPrice from '../../hooks/useSortByPrice.jsx';
 import Checkbox from '../Checkbox/Checkbox.jsx';
 import useFilter from '../../hooks/useFilter.jsx';
-import CarierCheckbox from '../../CarierCheckbox/CarierCheckbox.jsx';
+import CarierCheckbox from '../CarierCheckbox/CarierCheckbox.jsx';
 import useCarrierCheckbox from '../../hooks/useCarrierCheckbox.jsx';
 
 function Tickets({ flights }) {
