@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TZ_Airlines/static/css/main.56323bc6.css",
+    "main.js": "/TZ_Airlines/static/js/main.1bd643b9.js",
+    "static/js/453.242a4086.chunk.js": "/TZ_Airlines/static/js/453.242a4086.chunk.js",
+    "static/media/Aeroflot-Logo.wine.svg": "/TZ_Airlines/static/media/Aeroflot-Logo.wine.282f0149dec106d4f9ae29038d239785.svg",
+    "static/media/Brussels_Airlines-Logo.wine.svg": "/TZ_Airlines/static/media/Brussels_Airlines-Logo.wine.6238c2caca770208f597bd4d75236e34.svg",
+    "static/media/Pegasus_Airlines-Logo.wine.svg": "/TZ_Airlines/static/media/Pegasus_Airlines-Logo.wine.4dc9e2d484d4101ca8d2d4d769f961f0.svg",
+    "static/media/Turkish_Airlines-Logo.wine.svg": "/TZ_Airlines/static/media/Turkish_Airlines-Logo.wine.31134cb885f640f6615d2ff7925b8a7d.svg",
+    "static/media/Finnair-Logo.wine.svg": "/TZ_Airlines/static/media/Finnair-Logo.wine.5ad37051840e9a49cd996e8003b5943a.svg",
+    "static/media/LOT_Polish_Airlines-Logo.wine.svg": "/TZ_Airlines/static/media/LOT_Polish_Airlines-Logo.wine.11fecc2c4e7ab1a90a700983dfbc5ee0.svg",
+    "static/media/AirBaltic-Logo.wine.svg": "/TZ_Airlines/static/media/AirBaltic-Logo.wine.4504d013e2421d94786c3c63087d534c.svg",
+    "static/media/Air_France-Logo.wine.svg": "/TZ_Airlines/static/media/Air_France-Logo.wine.6562c708ec4d37b68dca9c6b2abd3073.svg",
+    "static/media/KLM-Logo.wine.svg": "/TZ_Airlines/static/media/KLM-Logo.wine.8a751e46a369362a5854e3bca770aab4.svg",
+    "static/media/Alitalia-Logo.wine.svg": "/TZ_Airlines/static/media/Alitalia-Logo.wine.69021f8c1a986af895c2de3e84ad3241.svg",
+    "index.html": "/TZ_Airlines/index.html",
+    "main.56323bc6.css.map": "/TZ_Airlines/static/css/main.56323bc6.css.map",
+    "main.1bd643b9.js.map": "/TZ_Airlines/static/js/main.1bd643b9.js.map",
+    "453.242a4086.chunk.js.map": "/TZ_Airlines/static/js/453.242a4086.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56323bc6.css",
+    "static/js/main.1bd643b9.js"
+  ]
+}
