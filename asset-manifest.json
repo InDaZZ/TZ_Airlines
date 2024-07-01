@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TZ_Airlines/static/css/main.56323bc6.css",
-    "main.js": "/TZ_Airlines/static/js/main.1bd643b9.js",
+    "main.js": "/TZ_Airlines/static/js/main.c9700945.js",
     "static/js/453.242a4086.chunk.js": "/TZ_Airlines/static/js/453.242a4086.chunk.js",
     "static/media/Aeroflot-Logo.wine.svg": "/TZ_Airlines/static/media/Aeroflot-Logo.wine.282f0149dec106d4f9ae29038d239785.svg",
     "static/media/Brussels_Airlines-Logo.wine.svg": "/TZ_Airlines/static/media/Brussels_Airlines-Logo.wine.6238c2caca770208f597bd4d75236e34.svg",
@@ -15,11 +15,11 @@
     "static/media/Alitalia-Logo.wine.svg": "/TZ_Airlines/static/media/Alitalia-Logo.wine.69021f8c1a986af895c2de3e84ad3241.svg",
     "index.html": "/TZ_Airlines/index.html",
     "main.56323bc6.css.map": "/TZ_Airlines/static/css/main.56323bc6.css.map",
-    "main.1bd643b9.js.map": "/TZ_Airlines/static/js/main.1bd643b9.js.map",
+    "main.c9700945.js.map": "/TZ_Airlines/static/js/main.c9700945.js.map",
     "453.242a4086.chunk.js.map": "/TZ_Airlines/static/js/453.242a4086.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56323bc6.css",
-    "static/js/main.1bd643b9.js"
+    "static/js/main.c9700945.js"
   ]
 }
